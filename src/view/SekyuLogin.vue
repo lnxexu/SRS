@@ -24,7 +24,7 @@ export default{
 <bg/>
 <div id="container">
   <div id="box">
-    <img src="../assets/logo2.png" id="logo" />
+    <img src="../assets/logo.png" id="logo" />
   </div>
   <div id="forms">
     <div class="form-group">
